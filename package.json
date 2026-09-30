@@ -1,0 +1,17 @@
+{
+  "name": "rent-friend-india-new",
+  "version": "1.0.0",
+  "description": "Rent Friend India",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "cookie-parser": "^1.4.7",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "better-sqlite3": "^11.10.0",
+    "qrcode": "^1.5.4"
+  }
+}
